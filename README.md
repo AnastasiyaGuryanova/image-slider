@@ -1,1 +1,1 @@
-[Slider](https://anastasiyaguryanova.github.io/image-slider/)
+##Слайдер картинок [Slider](https://anastasiyaguryanova.github.io/image-slider/)
